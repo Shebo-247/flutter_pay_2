@@ -1,4 +1,4 @@
-part of flutter_pay;
+part of flutter_pay_2;
 
 class PaymentNetwork {
   final String _name;

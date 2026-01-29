@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.0.2
+- Fix android pay crash
+
 ## 1.0.0
 - Migrate to Null Safety
 - Fix AmericanExpress on Android

@@ -1,4 +1,4 @@
-part of flutter_pay;
+part of flutter_pay_2;
 
 // https://developers.google.com/pay/api/web/reference/request-objects#gateway
 class GoogleParameters {
